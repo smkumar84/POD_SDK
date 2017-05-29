@@ -1,0 +1,26 @@
+{
+  "name": "POD_SDK",
+  "version": "1.1.1",
+  "summary": "generate tags and improve search results description of POD_SDK.",
+  "description": "Write the description between the DESC delimiters belowthe DESC delimiters belowthe DESC delimiters below",
+  "homepage": "https://github.com/smkumar84/POD_SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "smkumar84": "smkumar84@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/smkumar84/POD_SDK.git",
+    "tag": "1.1.1"
+  },
+  "source_files": "POD_SDK/Classes/**/*",
+  "frameworks": "QuartzCore",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

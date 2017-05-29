@@ -1,0 +1,2 @@
+algoBucket_thug algoBucket_zag.txt
+algoBucket_kine algoBucket_vex.txt

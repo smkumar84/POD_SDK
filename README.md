@@ -27,3 +27,18 @@ smkumar84, mahesh.sivasamy@hubino.com
 ## License
 
 POD_SDK is available under the MIT license. See the LICENSE file for more info.
+# POD_SDK
+
+
+…or create a new repository on the command line
+
+echo "# POD_SDK" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/smkumar84/POD_SDK.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/smkumar84/POD_SDK.git
+git push -u origin master

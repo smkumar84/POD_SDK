@@ -1,0 +1,3 @@
+algoBucket_thug algoBucket_zax.txt
+algoBucket_kine algoBucket_zek.txt
+algoBucket_kine algoBucket_jow.txt

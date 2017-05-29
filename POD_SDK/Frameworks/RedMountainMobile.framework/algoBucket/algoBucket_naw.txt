@@ -1,0 +1,6 @@
+algoBucket_thug algoBucket_jag.txt
+algoBucket_apse algoBucket_kex.txt
+algoBucket_kine algoBucket_suq.txt
+algoBucket_kine algoBucket_fax.txt
+algoBucket_kine algoBucket_jut.txt
+algoBucket_kine algoBucket_zin.txt

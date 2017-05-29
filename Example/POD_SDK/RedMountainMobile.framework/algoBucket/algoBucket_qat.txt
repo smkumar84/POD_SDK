@@ -1,0 +1,8 @@
+algoBucket_thug algoBucket_tux.txt
+algoBucket_apse algoBucket_kaf.txt
+algoBucket_busk algoBucket_gyp.txt
+algoBucket_busk algoBucket_sox.txt
+algoBucket_busk algoBucket_cep.txt
+algoBucket_knob algoBucket_maw.txt
+algoBucket_knob algoBucket_bam.txt
+algoBucket_knob algoBucket_mib.txt

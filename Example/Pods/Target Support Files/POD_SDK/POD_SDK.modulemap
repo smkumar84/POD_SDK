@@ -1,0 +1,6 @@
+framework module POD_SDK {
+  umbrella header "POD_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

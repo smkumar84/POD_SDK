@@ -1,0 +1,5 @@
+algoBucket_thug algoBucket_jag.txt
+algoBucket_apse algoBucket_kex.txt
+algoBucket_busk algoBucket_taj.txt
+algoBucket_busk algoBucket_hex.txt
+algoBucket_busk algoBucket_jet.txt
