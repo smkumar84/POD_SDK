@@ -22,7 +22,7 @@ pod "POD_SDK"
 
 ## Author
 
-smkumar84, mahesh.sivasamy@hubino.com
+smkumar84
 
 ## License
 
